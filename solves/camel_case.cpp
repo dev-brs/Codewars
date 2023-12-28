@@ -8,7 +8,7 @@ string to_camel_case(string text)
     string msg;
     bool capitalizeNext = false;
 
-    for (char c : text)
+    for (auto c : text)
     {
         if (c == '-' || c == '_')
         {
