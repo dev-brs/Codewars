@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/berna/OneDrive/Documentos/GitHub/Codewars/solves",
-      "program": "c:/Users/berna/OneDrive/Documentos/GitHub/Codewars/solves/build/Debug/outDebug",
+      "cwd": "c:/Users/berna/Documents/GitHub/Codewars/solves",
+      "program": "c:/Users/berna/Documents/GitHub/Codewars/solves/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
