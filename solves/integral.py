@@ -1,3 +1,5 @@
+#https://www.codewars.com/kata/63ecc21e12797b06519ad94f
+
 def area(a, b, c):
     #achar as raizes, que serão os limites da nossa integral
     delta = b**2 - 4*a*c
