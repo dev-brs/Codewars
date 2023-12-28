@@ -1,3 +1,5 @@
+#https://www.codewars.com/kata/58ad317d1541651a740000c5
+
 from itertools import permutations
 import math
 
